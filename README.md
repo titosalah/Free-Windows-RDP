@@ -7,7 +7,8 @@
 + In Github go to **⚙ Settings> Secrets> New repository secret**
 + In Name: enter **NGROK_AUTH_TOKEN**
 + In Value: visit https://dashboard.ngrok.com/auth/your-authtoken Copy and Paste Your Authtoken into
-+ Press **Add secret**
++ Press **Add secret** {RDP-Script.txt}
+
 + Go to **Action> RDP_2019> Run workflow**
 + Reload the page and press **RDP_2019> build**
 + Press the down arrow on Connect To Your RPD to get IP, User, Password.
